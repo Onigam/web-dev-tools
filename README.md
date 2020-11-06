@@ -8,6 +8,11 @@
 - [Emails](#emails)
 - [Image Hosting](#image-hosting)
 - [Analytics](#analytics)
+- [Database](#database)
+- [Website Optimization Tools](#website-optimization-tools)
+- [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
+- [Design](#design)
+- [Project management](#project-management)
 - [Photos](#photos)
 - [Illustrations](#illustrations)
 - [Icons](#icons)
@@ -17,10 +22,7 @@
 - [UI Inspiration](#ui-inspiration)
 - [Animation Libraries](#animation-libraries)
 - [Marketing & Growth](#marketing-&-growth)
-- [Website Optimization Tools](#website-optimization-tools)
-- [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
-- [Design](#design)
-- [Project management](#project-management)
+
 
 
 ## Hosting:  
@@ -34,6 +36,9 @@
 | https://surge.sh |  
 | https://render.com |
 | https://ovh.com |
+| https://aws.amazon.com/ |
+| https://cloud.google.com/ |
+| https://azure.microsoft.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -65,10 +70,34 @@
 
 | Website |
 | ------- |
-| https://www.mongodb.com/cloud/atlas |    
+| https://www.mongodb.com/cloud/atlas |
+| https://firebase.google.com/ |
 
 [⬆ back to top](#table-of-contents)
 
+## Website Optimization Tools:
+
+| Website |
+| ------- |
+| [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) |  
+| [GTmetrix](https://gtmetrix.com/) |  
+| [WebPageTest](https://www.webpagetest.org) |  
+| [Yslow](http://yslow.org/) |
+| [Google LightHouse](https://developers.google.com/web/tools/lighthouse)
+
+[⬆ back to top](#table-of-contents)
+
+## Design:
+
+| Website |
+| ------- |
+| https://www.figma.com/ |
+| https://www.adobe.com/fr/products/xd.html |
+| https://www.sketch.com/ |
+| https://pencil.evolus.vn/ |
+| https://miro.com/ |
+
+[⬆ back to top](#table-of-contents)
 
 ## Photos:  
 
@@ -176,29 +205,6 @@
 
 [⬆ back to top](#table-of-contents)
 
-## Website Optimization Tools:
-
-| Website |
-| ------- |
-| [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) |  
-| [GTmetrix](https://gtmetrix.com/) |  
-| [WebPageTest](https://www.webpagetest.org) |  
-| [Yslow](http://yslow.org/) |
-| [Google LightHouse](https://developers.google.com/web/tools/lighthouse)
-
-[⬆ back to top](#table-of-contents)
-
-## Design:
-
-| Website |
-| ------- |
-| https://www.figma.com/ |
-| https://www.adobe.com/fr/products/xd.html |
-| https://www.sketch.com/ |
-| https://pencil.evolus.vn/ |
-| https://miro.com/ |
-
-[⬆ back to top](#table-of-contents)
 
 ## Project Management
 
