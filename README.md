@@ -101,7 +101,7 @@ If you like this repo, be sure to ⭐  it.
 
 | Website |
 | ------- |
-| [JS Intl API](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Intl) |
+| [JS Intl API](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Objets_globaux/Intl) |
 | https://formatjs.io/ |
 | https://lokalise.com/ |
 
