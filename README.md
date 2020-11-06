@@ -10,7 +10,7 @@
 - [Analytics & Tracking](#analytics-&-tracking)
 - [Database](#database)
 - [Frameworks](#frameworks-&-runtimes)
-- [Internationalization] (#internationalization)
+- [Internationalization](#internationalization)
 - [Website Optimization Tools](#website-optimization-tools)
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 - [Code Examples](#code-examples)
