@@ -1,5 +1,11 @@
 # Usefull Tools and Resources to build a Web Product 👨‍💻
 
+Here is an non exhaustive list of some usefull tools that can help you to develop and build your Web product  ⚡
+
+Enjoy!
+
+If you like this repo, be sure to ⭐ it.
+
 ---
 
 ## Table of Contents
