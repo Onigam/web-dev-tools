@@ -9,6 +9,7 @@
 - [Image Hosting](#image-hosting)
 - [Analytics](#analytics)
 - [Database](#database)
+- [Frameworks](#frameworks)
 - [Website Optimization Tools](#website-optimization-tools)
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 - [Code Examples](#code-examples)
@@ -73,6 +74,16 @@
 | ------- |
 | https://www.mongodb.com/cloud/atlas |
 | https://firebase.google.com/ |
+
+[⬆ back to top](#table-of-contents)
+
+## Frameworks:
+
+| Website |
+| ------- |
+| https://nextjs.org/ |
+| https://reactjs.org/ |
+| https://create-react-app.dev/ |
 
 [⬆ back to top](#table-of-contents)
 
