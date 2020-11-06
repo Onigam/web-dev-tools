@@ -4,7 +4,7 @@ Here is an non exhaustive list of some usefull tools that can help you to develo
 
 Enjoy!
 
-If you like this repo, be sure to ⭐ it.
+If you like this repo, be sure to ⭐  it.
 
 ---
 
