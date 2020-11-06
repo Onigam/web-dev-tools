@@ -17,13 +17,14 @@
 - [Illustrations](#illustrations)
 - [Icons](#icons)
 - [Fonts](#fonts)
+- [Animation Libraries](#animation-libraries)
 - [Code Editors](#code-editors)
 - [Color Palettes](#color-palettes)
 - [UI Inspiration](#ui-inspiration)
-- [Animation Libraries](#animation-libraries)
+- [Landing Page](#landing-page)
 - [Marketing & Growth](#marketing-&-growth)
-
-
+- [Project Management](#project-management)
+- [Integration Test](#integration-test)
 
 ## Hosting:  
 
@@ -156,6 +157,29 @@
 
 [⬆ back to top](#table-of-contents)
 
+## Animation Libraries:
+
+| Website |
+| ------- |
+| [CSShake](https://elrumordelaluz.github.io/csshake/) |  
+| [Animate.css](https://animate.style/) |  
+| [AnimeJS](https://animejs.com/) |  
+| [GreenSock (GSAP)](https://greensock.com/gsap/) |  
+| [Magic Animations](https://www.minimamente.com/project/magic/) |  
+| [Hover css](https://ianlunn.github.io/Hover/) |  
+| [AniJS](https://anijs.github.io/) |  
+| [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/) |  
+| [Tuesday](http://shakrmedia.github.io/tuesday/) |  
+| [Mo.js](https://mojs.github.io/)|  
+| [Bounce.js](http://bouncejs.com/) | 
+| [tsParticles](https://particles.matteobruni.it) |
+| [AOS](https://michalsnik.github.io/aos/) |
+| [Velocity.js](http://velocityjs.org/) |
+| [Popmotion](https://popmotion.io/) |
+| [Snap.svg](http://snapsvg.io/) |
+
+[⬆ back to top](#table-of-contents)
+
 ## Code Editors:
 
 | Website |
@@ -191,6 +215,15 @@
 | https://httpster.net |   
 | https://www.awwwards.com |
 | https://dribbble.com |
+
+[⬆ back to top](#table-of-contents)
+
+## Landing Page:
+
+| Website |
+| ------- |
+| http://landen.co/ |  
+| https://strikingly.com/ |
 
 [⬆ back to top](#table-of-contents)
 
