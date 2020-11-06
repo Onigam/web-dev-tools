@@ -1,4 +1,4 @@
-# Usefull Tools and Resources for Web Development and Build a Product  👨‍💻
+# Usefull Tools and Resources for Web Development 👨‍💻
 
 ---
 
