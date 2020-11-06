@@ -11,6 +11,7 @@
 - [Database](#database)
 - [Website Optimization Tools](#website-optimization-tools)
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
+- [Code Examples](#code-examples)
 - [Design](#design)
 - [Project management](#project-management)
 - [Photos](#photos)
@@ -85,6 +86,30 @@
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) |
 | [Google LightHouse](https://developers.google.com/web/tools/lighthouse)
+
+[⬆ back to top](#table-of-contents)
+
+## HTML/CSS/JavaScript templates:
+
+| Website |
+| ------- |
+| https://inovatik.com | 
+| https://templated.co | 
+| https://www.tooplate.com | 
+| https://html5up.net | 
+| https://templatemo.com | 
+| https://uideck.com | 
+| https://freehtml5.co | 
+
+[⬆ back to top](#table-of-contents)
+
+
+## Code Examples:
+
+| Website |
+| ------- |
+| https://codepen.io/ |
+| https://plnkr.co/ |
 
 [⬆ back to top](#table-of-contents)
 
