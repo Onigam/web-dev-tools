@@ -22,7 +22,6 @@
 - [Code Editors](#code-editors)
 - [Color Palettes](#color-palettes)
 - [UI Inspiration](#ui-inspiration)
-- [Landing Page](#landing-page)
 - [Marketing & Growth](#marketing-&-growth)
 - [Project Management](#project-management)
 - [Integration Test](#integration-test)
@@ -93,6 +92,8 @@
 
 | Website |
 | ------- |
+| http://landen.co/ |  
+| https://strikingly.com/ |
 | https://inovatik.com | 
 | https://templated.co | 
 | https://www.tooplate.com | 
@@ -240,15 +241,6 @@
 | https://httpster.net |   
 | https://www.awwwards.com |
 | https://dribbble.com |
-
-[⬆ back to top](#table-of-contents)
-
-## Landing Page:
-
-| Website |
-| ------- |
-| http://landen.co/ |  
-| https://strikingly.com/ |
 
 [⬆ back to top](#table-of-contents)
 
