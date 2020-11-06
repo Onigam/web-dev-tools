@@ -7,9 +7,10 @@
 - [Hosting](#hosting)
 - [Emails](#emails)
 - [Image Hosting](#image-hosting)
-- [Analytics](#analytics)
+- [Analytics & Tracking](#analytics-&-tracking)
 - [Database](#database)
 - [Frameworks](#frameworks-&-runtimes)
+- [Internationalization] (#internationalization)
 - [Website Optimization Tools](#website-optimization-tools)
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
 - [Code Examples](#code-examples)
@@ -60,11 +61,12 @@
 
 [⬆ back to top](#table-of-contents)
 
-## Analytics:  
+## Analytics & Tracking:  
 
 | Website |
 | ------- |
 | https://mixpanel.com |
+| https://www.hotjar.com/ |
 | https://analytics.google.com/ |
 | http://segment.com/ |
 
@@ -85,6 +87,17 @@
 | https://reactjs.org/ |
 | https://create-react-app.dev/ |
 | https://nodejs.org/ |
+
+[⬆ back to top](#table-of-contents)
+
+## Internationalization
+
+| Website |
+| ------- |
+| [JS Intl API](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Intl) |
+| https://formatjs.io/ |
+| https://lokalise.com/ |
+
 
 [⬆ back to top](#table-of-contents)
 
