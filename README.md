@@ -1,10 +1,13 @@
-# Usefull Tools and Resources for Web Development 👨‍💻
+# Usefull Tools and Resources to build a Web Product 👨‍💻
 
 ---
 
 ## Table of Contents
 
 - [Hosting](#hosting)
+- [Emails](#emails)
+- [Image Hosting](#image-hosting)
+- [Analytics](#analytics)
 - [Photos](#photos)
 - [Illustrations](#illustrations)
 - [Icons](#icons)
@@ -12,13 +15,13 @@
 - [Code Editors](#code-editors)
 - [Color Palettes](#color-palettes)
 - [UI Inspiration](#ui-inspiration)
-- [Docs](#docs)
 - [Animation Libraries](#animation-libraries)
-- [Charts](#charts)
-- [Chrome Extensions](#chrome-extensions)
+- [Marketing & Growth](#marketing-&-growth)
 - [Website Optimization Tools](#website-optimization-tools)
 - [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
-- [Youtube Channels](#youtube-channels)
+- [Design](#design)
+- [Project management](#project-management)
+
 
 ## Hosting:  
 
@@ -33,6 +36,41 @@
 | https://ovh.com |
 
 [⬆ back to top](#table-of-contents)
+
+## Emails:  
+
+| Website |
+| ------- |
+| https://mailgun.com |    
+
+[⬆ back to top](#table-of-contents)
+
+## Image Hosting:  
+
+| Website |
+| ------- |
+| https://cloudinary.com |    
+
+[⬆ back to top](#table-of-contents)
+
+## Analytics:  
+
+| Website |
+| ------- |
+| https://mixpanel.com |
+| https://analytics.google.com/ |
+| http://segment.com/ |
+
+## Database:
+
+| Website |
+| ------- |
+| https://www.mongodb.com/cloud/atlas |    
+
+[⬆ back to top](#table-of-contents)
+
+
+## Photos:  
 
 | Website |
 | ------- |
@@ -113,6 +151,80 @@
 | https://mycolor.space | 
 
 [⬆ back to top](#table-of-contents) 
+
+## UI Inspiration:
+
+| Website |
+| ------- |
+| https://uimovement.com |  
+| https://uigarage.net |  
+| https://collectui.com |  
+| https://httpster.net |   
+| https://www.awwwards.com |
+| https://dribbble.com |
+
+[⬆ back to top](#table-of-contents)
+
+## Marketing & Growth:
+
+| Website |
+| ------- |
+| https://mailchimp.com/ |
+| https://www.lemlist.com/ |
+| https://www.usebouncer.com/ |
+| https://www.synthesia.io/ |
+
+[⬆ back to top](#table-of-contents)
+
+## Website Optimization Tools:
+
+| Website |
+| ------- |
+| [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) |  
+| [GTmetrix](https://gtmetrix.com/) |  
+| [WebPageTest](https://www.webpagetest.org) |  
+| [Yslow](http://yslow.org/) |
+| [Google LightHouse](https://developers.google.com/web/tools/lighthouse)
+
+[⬆ back to top](#table-of-contents)
+
+## Design:
+
+| Website |
+| ------- |
+| https://www.figma.com/ |
+| https://www.adobe.com/fr/products/xd.html |
+| https://www.sketch.com/ |
+| https://pencil.evolus.vn/ |
+| https://miro.com/ |
+
+[⬆ back to top](#table-of-contents)
+
+## Project Management
+
+| Website |
+| ------- |
+| www.clickup.com/ |
+| https://trello.com/ |
+| https://jira.atlassian.com/ |
+| https://slack.com/ |
+| https://discord.com/ |
+
+[⬆ back to top](#table-of-contents)
+
+## Integration test
+
+| Website |
+| ------- |
+| https://crossbrowsertesting.com/ |
+| https://www.browserstack.com/ |
+
+[⬆ back to top](#table-of-contents)
+
+
+
+
+
 
 
 
